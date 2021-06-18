@@ -1,0 +1,27 @@
+.expand {
+    color: black;
+     padding: 18px;
+     width: 100%;
+     text-align: left;
+     border: none;
+     outline: none;
+     font-size: 13px;
+   }
+   .active, .expand:hover {
+     background-color: #ccc;
+   }
+   .format {
+     padding: 0 18px;
+     display: none;
+     overflow: hidden;
+                                                                                                                            
+   }
+   .grid {
+     display: grid;
+     grid-template-columns: 1fr;
+     
+ }
+ 
+ .spacing{
+     padding: 18px;
+ }
